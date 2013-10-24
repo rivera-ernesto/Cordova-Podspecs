@@ -1,14 +1,14 @@
 
 Pod::Spec.new do |s|
-  s.name         = "cordova-plugin-globalization"
+  s.name         = "CordovaPlugin-globalization"
   s.version      = "0.2.2"
   s.summary      = "Mirror of Apache Cordova Plugin globalization"
 
   s.description  = <<-DESC
-                   A longer description of cordova-plugin-globalization in Markdown format.
+                   A longer description of CordovaPlugin-globalization in Markdown format.
                    DESC
 
-  s.homepage     = "https://github.com/apache/cordova-plugin-globalization"
+  s.homepage     = "https://github.com/apache/CordovaPlugin-globalization"
   s.license      = { :type => 'Apache License, Version 2.0', :text => <<-LICENSE
       Licensed under the Apache License, Version 2.0 (the "License");
       you may not use this file except in compliance with the License.

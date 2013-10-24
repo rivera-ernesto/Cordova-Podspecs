@@ -1,14 +1,14 @@
 
 Pod::Spec.new do |s|
-  s.name         = "cordova-plugin-vibration"
+  s.name         = "CordovaPlugin-vibration"
   s.version      = "0.3.3"
   s.summary      = "Mirror of Apache Cordova Plugin vibration"
 
   s.description  = <<-DESC
-                   A longer description of cordova-plugin-vibration in Markdown format.
+                   A longer description of CordovaPlugin-vibration in Markdown format.
                    DESC
 
-  s.homepage     = "https://github.com/apache/cordova-plugin-vibration"
+  s.homepage     = "https://github.com/apache/CordovaPlugin-vibration"
   s.license      = { :type => 'Apache License, Version 2.0', :file => 'LICENSE' }
   s.author       = { "The Apache Software Foundation" => "email@address.com" }
 

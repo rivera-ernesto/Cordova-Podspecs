@@ -1,14 +1,14 @@
 
 Pod::Spec.new do |s|
-  s.name         = "cordova-plugin-file-transfer"
+  s.name         = "CordovaPlugin-file-transfer"
   s.version      = "0.3.3"
   s.summary      = "Mirror of Apache Cordova Plugin file-transfer"
 
   s.description  = <<-DESC
-                   A longer description of cordova-plugin-file-transfer in Markdown format.
+                   A longer description of CordovaPlugin-file-transfer in Markdown format.
                    DESC
 
-  s.homepage     = "https://github.com/apache/cordova-plugin-file-transfer"
+  s.homepage     = "https://github.com/apache/CordovaPlugin-file-transfer"
   s.license      = { :type => 'Apache License, Version 2.0', :file => 'LICENSE' }
   s.author       = { "The Apache Software Foundation" => "email@address.com" }
 

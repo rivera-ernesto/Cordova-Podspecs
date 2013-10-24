@@ -1,14 +1,14 @@
 
 Pod::Spec.new do |s|
-  s.name         = "cordova-plugin-dialogs"
+  s.name         = "CordovaPlugin-dialogs"
   s.version      = "0.2.2"
   s.summary      = "Mirror of Apache Cordova Plugin dialogs"
 
   s.description  = <<-DESC
-                   A longer description of cordova-plugin-dialogs in Markdown format.
+                   A longer description of CordovaPlugin-dialogs in Markdown format.
                    DESC
 
-  s.homepage     = "https://github.com/apache/cordova-plugin-dialogs"
+  s.homepage     = "https://github.com/apache/CordovaPlugin-dialogs"
   s.license      = { :type => 'Apache License, Version 2.0', :file => 'LICENSE' }
   s.author       = { "The Apache Software Foundation" => "email@address.com" }
 

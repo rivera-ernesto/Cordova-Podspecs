@@ -1,14 +1,14 @@
 
 Pod::Spec.new do |s|
-  s.name         = "cordova-plugin-device-orientation"
+  s.name         = "CordovaPlugin-device-orientation"
   s.version      = "0.3.1"
   s.summary      = "Mirror of Apache Cordova Plugin device-orientation"
 
   s.description  = <<-DESC
-                   A longer description of cordova-plugin-device-orientation in Markdown format.
+                   A longer description of CordovaPlugin-device-orientation in Markdown format.
                    DESC
 
-  s.homepage     = "https://github.com/apache/cordova-plugin-device-orientation"
+  s.homepage     = "https://github.com/apache/CordovaPlugin-device-orientation"
   s.license      = { :type => 'Apache License, Version 2.0', :file => 'LICENSE' }
   s.author       = { "The Apache Software Foundation" => "email@address.com" }
 

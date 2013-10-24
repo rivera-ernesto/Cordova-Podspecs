@@ -1,14 +1,14 @@
 
 Pod::Spec.new do |s|
-  s.name         = "cordova-plugin-network-information"
+  s.name         = "CordovaPlugin-network-information"
   s.version      = "0.2.3"
   s.summary      = "Mirror of Apache Cordova Plugin network-information"
 
   s.description  = <<-DESC
-                   A longer description of cordova-plugin-network-information in Markdown format.
+                   A longer description of CordovaPlugin-network-information in Markdown format.
                    DESC
 
-  s.homepage     = "https://github.com/apache/cordova-plugin-network-information"
+  s.homepage     = "https://github.com/apache/CordovaPlugin-network-information"
   s.license      = { :type => 'Apache License, Version 2.0', :file => 'LICENSE' }
   s.author       = { "The Apache Software Foundation" => "email@address.com" }
 
