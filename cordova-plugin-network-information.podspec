@@ -1,11 +1,7 @@
-#
-#  Be sure to run `pod spec lint cordova-plugin-network-information.podspec' to ensure this is a
-#  valid spec and to remove all comments including this before submitting the spec.
-#
 
 Pod::Spec.new do |s|
   s.name         = "cordova-plugin-network-information"
-  s.version      = "3.0.0"
+  s.version      = "0.2.3"
   s.summary      = "Mirror of Apache Cordova Plugin network-information"
 
   s.description  = <<-DESC
@@ -13,22 +9,17 @@ Pod::Spec.new do |s|
                    DESC
 
   s.homepage     = "https://github.com/apache/cordova-plugin-network-information"
-  s.license       = { :type => 'Apache License, Version 2.0', :file => 'LICENSE' }
+  s.license      = { :type => 'Apache License, Version 2.0', :file => 'LICENSE' }
   s.author       = { "The Apache Software Foundation" => "email@address.com" }
 
   s.platform     = :ios, '5.0'
   s.source       = { :git => "https://github.com/apache/cordova-plugin-network-information.git", :tag => "r#{s.version}" }
-  s.source_files  = 'src/ios/*.{h,m}'
-  # s.resource  = "icon.png"
-  # s.resources = "Resources/*.png"
+  s.source_files = 'src/ios/*.{h,m}'
 
   s.preserve_paths = '*.md', 'www/*.js', 'www/ios/*.js'
 
-  # s.frameworks = 'SomeFramework', 'AnotherFramework'
-  # s.libraries = 'iconv', 'xml2'
+  s.frameworks   = 'SystemConfiguration'
   s.requires_arc = true
 
-  # s.xcconfig = { 'HEADER_SEARCH_PATHS' => '$(SDKROOT)/usr/include/libxml2' }
   s.dependency 'Cordova', '>= 3.0.0'
-
 end
