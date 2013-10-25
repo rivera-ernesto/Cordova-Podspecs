@@ -16,6 +16,11 @@ Pod::Spec.new do |s|
 
   s.frameworks = 'AVFoundation', 'CoreLocation', 'MobileCoreServices', 'AssetsLibrary'
   
+  s.default_subspec = 'Base'
+  
+  s.subspec 'Base' do |b|
+  end
+  
   s.subspec 'Plugins' do |p|
       
       p.subspec 'Camera' do |camera|
