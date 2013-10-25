@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
 
   s.preserve_paths = '*.md', 'www/*.js', 'www/ios/*.js'
 
-  s.frameworks   = 'CoreGraphics', 'MobileCoreServices'
+  s.frameworks   = 'CoreGraphics', 'MobileCoreServices', 'CoreMedia'
   s.requires_arc = true
 
   s.dependency 'Cordova', '>= 3.0.0'
