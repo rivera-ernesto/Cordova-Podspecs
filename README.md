@@ -4,7 +4,7 @@ Cordova-Podspecs
 Cocoapods support for Cordova 3.x.x
 
 
-## Testing
+### Testing
 
 * Add this repo to Cocoapods:
 
@@ -22,3 +22,7 @@ pod 'Cordova', :podspec => '<PATH>/Cordova.podspec'
 # or
 # pod 'Cordova', :podspec => 'https://raw.github.com/rivera-ernesto/Cordova-Podspecs/master/Cordova.podspec'
 ```
+
+### Development
+
+You may use [this](https://github.com/rivera-ernesto/All-Cordova-iOS-Repositories) repository for easier development.
