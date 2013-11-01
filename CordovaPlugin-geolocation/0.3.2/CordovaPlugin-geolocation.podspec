@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
   s.name         = "CordovaPlugin-geolocation"
   s.version      = "0.3.2"
-  s.summary      = "Mirror of Apache Cordova Plugin geolocation."
+  s.summary      = "Apache Cordova Plugin geolocation."
 
   s.description  = <<-DESC
                    A longer description of CordovaPlugin-geolocation in Markdown format.

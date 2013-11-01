@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
   s.name         = "CordovaPlugin-globalization"
   s.version      = "0.2.2"
-  s.summary      = "Mirror of Apache Cordova Plugin globalization."
+  s.summary      = "Apache Cordova Plugin globalization."
 
   s.description  = <<-DESC
                    A longer description of CordovaPlugin-globalization in Markdown format.

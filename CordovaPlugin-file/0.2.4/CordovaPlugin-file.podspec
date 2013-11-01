@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
   s.name         = "CordovaPlugin-file"
   s.version      = "0.2.4"
-  s.summary      = "Mirror of Apache Cordova Plugin file."
+  s.summary      = "Apache Cordova Plugin file."
 
   s.description  = <<-DESC
                    A longer description of CordovaPlugin-file in Markdown format.

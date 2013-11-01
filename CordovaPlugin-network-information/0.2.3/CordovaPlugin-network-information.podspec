@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
   s.name         = "CordovaPlugin-network-information"
   s.version      = "0.2.3"
-  s.summary      = "Mirror of Apache Cordova Plugin network-information."
+  s.summary      = "Apache Cordova Plugin network-information."
 
   s.description  = <<-DESC
                    A longer description of CordovaPlugin-network-information in Markdown format.
