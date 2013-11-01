@@ -1,2 +1,4 @@
 language: objective-c
+install:
+- pod repo update
 script: pod spec lint
