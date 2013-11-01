@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
   s.name         = "CordovaPlugin-dialogs"
   s.version      = "0.2.2"
-  s.summary      = "Mirror of Apache Cordova Plugin dialogs"
+  s.summary      = "Mirror of Apache Cordova Plugin dialogs."
 
   s.description  = <<-DESC
                    A longer description of CordovaPlugin-dialogs in Markdown format.

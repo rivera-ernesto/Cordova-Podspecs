@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = "CordovaPlugin-inappbrowser"
   s.version      = "0.2.4"
-  s.summary      = "Mirror of Apache Cordova Plugin inappbrowser"
+  s.summary      = "Mirror of Apache Cordova Plugin inappbrowser."
 
   s.description  = <<-DESC
                    A longer description of CordovaPlugin-inappbrowser in Markdown format.

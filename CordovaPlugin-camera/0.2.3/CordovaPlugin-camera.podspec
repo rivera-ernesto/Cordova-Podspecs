@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
   s.name         = "CordovaPlugin-camera"
   s.version      = "0.2.3"
-  s.summary      = "Mirror of Apache Cordova Plugin camera"
+  s.summary      = "Mirror of Apache Cordova Plugin camera."
 
   s.description  = <<-DESC
                    A longer description of CordovaPlugin-camera in Markdown format.

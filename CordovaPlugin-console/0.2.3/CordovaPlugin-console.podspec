@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
   s.name         = "CordovaPlugin-console"
   s.version      = "0.2.3"
-  s.summary      = "Mirror of Apache Cordova Plugin console"
+  s.summary      = "Mirror of Apache Cordova Plugin console."
 
   s.description  = <<-DESC
                    A longer description of CordovaPlugin-console in Markdown format.

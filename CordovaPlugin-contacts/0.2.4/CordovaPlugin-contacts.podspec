@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
   s.name         = "CordovaPlugin-contacts"
   s.version      = "0.2.4"
-  s.summary      = "Mirror of Apache Cordova Plugin contacts"
+  s.summary      = "Mirror of Apache Cordova Plugin contacts."
 
   s.description  = <<-DESC
                    A longer description of CordovaPlugin-contacts in Markdown format.

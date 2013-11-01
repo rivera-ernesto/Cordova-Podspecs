@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
   s.name         = "CordovaPlugin-device"
   s.version      = "0.2.3"
-  s.summary      = "Mirror of Apache Cordova Plugin device"
+  s.summary      = "Mirror of Apache Cordova Plugin device."
 
   s.description  = <<-DESC
                    A longer description of CordovaPlugin-device in Markdown format.

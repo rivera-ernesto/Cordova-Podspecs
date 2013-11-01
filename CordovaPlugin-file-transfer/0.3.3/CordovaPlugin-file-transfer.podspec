@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
   s.name         = "CordovaPlugin-file-transfer"
   s.version      = "0.3.3"
-  s.summary      = "Mirror of Apache Cordova Plugin file-transfer"
+  s.summary      = "Mirror of Apache Cordova Plugin file-transfer."
 
   s.description  = <<-DESC
                    A longer description of CordovaPlugin-file-transfer in Markdown format.

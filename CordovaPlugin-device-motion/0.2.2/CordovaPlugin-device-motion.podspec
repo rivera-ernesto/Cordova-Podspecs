@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
   s.name         = "CordovaPlugin-device-motion"
   s.version      = "0.2.2"
-  s.summary      = "Mirror of Apache Cordova Plugin device-motion"
+  s.summary      = "Mirror of Apache Cordova Plugin device-motion."
 
   s.description  = <<-DESC
                    A longer description of CordovaPlugin-device-motion in Markdown format.

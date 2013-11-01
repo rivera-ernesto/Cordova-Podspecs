@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
   s.name         = "CordovaPlugin-splashscreen"
   s.version      = "0.2.3"
-  s.summary      = "Mirror of Apache Cordova Plugin splashscreen"
+  s.summary      = "Mirror of Apache Cordova Plugin splashscreen."
 
   s.description  = <<-DESC
                    A longer description of CordovaPlugin-splashscreen in Markdown format.

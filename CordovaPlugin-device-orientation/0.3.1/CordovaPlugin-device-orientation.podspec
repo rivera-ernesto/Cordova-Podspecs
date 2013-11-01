@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
   s.name         = "CordovaPlugin-device-orientation"
   s.version      = "0.3.1"
-  s.summary      = "Mirror of Apache Cordova Plugin device-orientation"
+  s.summary      = "Mirror of Apache Cordova Plugin device-orientation."
 
   s.description  = <<-DESC
                    A longer description of CordovaPlugin-device-orientation in Markdown format.

@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
   s.name         = "CordovaPlugin-media-capture"
   s.version      = "0.2.3"
-  s.summary      = "Mirror of Apache Cordova Plugin media-capture"
+  s.summary      = "Mirror of Apache Cordova Plugin media-capture."
 
   s.description  = <<-DESC
                    A longer description of CordovaPlugin-media-capture in Markdown format.

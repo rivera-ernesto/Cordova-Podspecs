@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
   s.name         = "CordovaPlugin-battery-status"
   s.version      = "0.2.3"
-  s.summary      = "Mirror of Apache Cordova Plugin battery-status"
+  s.summary      = "Mirror of Apache Cordova Plugin battery-status."
 
   s.description  = <<-DESC
                    A longer description of CordovaPlugin-battery-status in Markdown format.

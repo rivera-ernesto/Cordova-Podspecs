@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
   s.name         = "CordovaPlugin-vibration"
   s.version      = "0.3.3"
-  s.summary      = "Mirror of Apache Cordova Plugin vibration"
+  s.summary      = "Mirror of Apache Cordova Plugin vibration."
 
   s.description  = <<-DESC
                    A longer description of CordovaPlugin-vibration in Markdown format.
