@@ -29,3 +29,12 @@ pod 'Cordova', :podspec => '<PATH>/Cordova.podspec'
 #### Development
 
 You may use [this](https://github.com/rivera-ernesto/All-Cordova-iOS-Repositories) repository for easier development.
+
+#### Deployment
+
+To push spec changes from this repository to the central [CocoaPods/Specs](https://github.com/CocoaPods/Specs) repo:
+
+```
+pod push PATH/TO/SPECS/REPO --local-only
+```
+Then submit a pull request.
